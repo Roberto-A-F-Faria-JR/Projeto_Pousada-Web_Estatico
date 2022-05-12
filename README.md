@@ -1,2 +1,4 @@
 # Projeto_Pousada-Web_Estatico
- Projeto feito somento com HTML & CSS
+Curso de HTML & CSS da DEVMEDIA
+
+Projeto feito somento com HTML & CSS
